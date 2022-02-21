@@ -4,7 +4,7 @@
     "current": true,
     "partitionScheme":"min_spiffs",
     "description": "Added ESPInstaller interface",
-    "compatibility": [0.5.2]
+    "compatibility": [0.5]
 },
 {
     "version": 0.2,
