@@ -1,7 +1,13 @@
 [
     {
         "name": "BFC",
-        "description": "A simple webserver to allow easy installation of other project directly from their repo",
+        "description": "A data logging hardware solution for motorcycle enthisiasts",
+        "repoRawPath": "https://github.com/linzmeister/BFC/releases/BFC/list.json"
+    }
+
+	{
+        "name": "ADL",
+        "description": "A data logging hardware solution encompanssing multiple automotive industires",
         "repoRawPath": "https://github.com/linzmeister/BFC/releases/list.json"
     }
 ]
