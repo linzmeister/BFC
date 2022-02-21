@@ -3,10 +3,5 @@
         "name": "BFC",
         "description": "A data logging hardware solution for motorcycle enthisiasts",
         "repoRawPath": "https://raw.githubusercontent.com/linzmeister/BFC/main/releases/BFC/list.json"
-    },
-	{
-        "name": "ADL",
-        "description": "A data logging hardware solution encompanssing multiple automotive industires",
-        "repoRawPath": "https://raw.githubusercontent.com/linzmeister/BFC/main/releases/ADL/list.json"
     }
 ]
