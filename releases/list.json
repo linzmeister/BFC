@@ -1,0 +1,7 @@
+[
+    {
+        "name": "BFC",
+        "description": "A simple webserver to allow easy installation of other project directly from their repo",
+        "repoRawPath": "https://github.com/linzmeister/BFC/releases/list.json"
+    }
+]
