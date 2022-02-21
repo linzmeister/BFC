@@ -6,7 +6,7 @@
     },
 	{
         "name": "ADL",
-        "description": "A data logging hardware solution encompanssing multiple automotive industires",
+        "description": "A data logging hardware solution encompanssing multiple automotive industries",
         "repoRawPath": "https://raw.githubusercontent.com/linzmeister/BFC/main/releases/ADL/"
     }
 ]
