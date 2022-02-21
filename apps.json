@@ -2,6 +2,6 @@
     {
         "name": "BFC",
         "description": "A data logging hardware solution for motorcycle enthisiasts",
-        "repoRawPath": "https://raw.githubusercontent.com/linzmeister/BFC/main/releases/list.json"
+        "repoRawPath": "https://raw.githubusercontent.com/linzmeister/BFC/main/releases/versions.json"
     }
 ]
