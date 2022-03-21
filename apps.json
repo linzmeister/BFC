@@ -4,6 +4,7 @@
         "description" : "A data logging hardware solution for motorcycle enthusiasts",
         "repoRawPath" : "https://raw.githubusercontent.com/linzmeister/BFC/main/releases/BFC/",
 		"repoFilename": "versions.json",
+		"SPIFFSFilename": "",
 		"BinFilename" : "BFC_fw.bin"
     },
 	{
@@ -11,6 +12,7 @@
         "description" : "A data logging hardware solution encompanssing multiple automotive industries",
         "repoRawPath" : "https://raw.githubusercontent.com/linzmeister/BFC/main/releases/ADL/",
 		"repoFilename": "versions.json",
+		"SPIFFSFilename": "",
 		"BinFilename" : "BFC_fw.bin"
     },
 	{
