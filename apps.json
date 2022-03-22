@@ -26,7 +26,7 @@
 	{
         "name": "ESPecial",
         "description"   : "This project aim to provide an easy way to control your esp32. You no longer need programming skills to set complex tasks. This can be a very nice approach for small projects, home automation and/or educational purposes.",
-        "repoRawPath"   : "https://raw.githubusercontent.com/RomeHein/ESPecial/master/",
+        "repoRawPath"   : "https://raw.githubusercontent.com/RomeHein/ESPecial/master/versions/",
 		"repoFilename"  : "list.json",
 		"SPIFFSFilename": "SPIFFS.bin",
 		"BinFilename"   : "espInstaller.ino.bin"
@@ -34,7 +34,7 @@
     {
         "name": "ESPInstaller",
         "description"   : "A simple webserver to allow easy installation of other project directly from their repo",
-        "repoRawPath"   : "https://raw.githubusercontent.com/RomeHein/ESPInstaller/master/",
+        "repoRawPath"   : "https://raw.githubusercontent.com/RomeHein/ESPInstaller/master/versions/",
 		"repoFilename"  : "list.json",
 		"SPIFFSFilename": "",
 		"BinFilename"   : "espInstaller.ino.bin"
