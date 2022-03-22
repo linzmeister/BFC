@@ -1,7 +1,15 @@
 [{
-    "version": "0.5.3",
+    "version": "0.5.7",
     "build": 1,
     "current": true,
+    "partitionScheme":"min_spiffs",
+    "description": "Added AsyncEspOTA interface",
+    "compatibility": [0.5]
+},
+{
+    "version": "0.5.3",
+    "build": 1,
+    "current": false,
     "partitionScheme":"min_spiffs",
     "description": "Added ESPInstaller interface",
     "compatibility": [0.5]

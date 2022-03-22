@@ -1,5 +1,13 @@
 [
     {
+        "name": "espAsyncOTA",
+        "description" : "An Over the Air Updatue library",
+        "repoRawPath" : "https://raw.githubusercontent.com/linzmeister/espAsyncOTA/master/versions/",
+		"repoFilename": "versions.json",
+		"SPIFFSFilename": "",
+		"BinFilename" : "AysncEspOTA.bin"
+    },
+	{
         "name": "BFC",
         "description" : "A data logging hardware solution for motorcycle enthusiasts",
         "repoRawPath" : "https://raw.githubusercontent.com/linzmeister/BFC/main/releases/BFC/",
