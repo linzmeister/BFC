@@ -3,7 +3,7 @@ Bike Function Counter
 
 # v0.1.0 Release Notes:
 
-Initial development release
+Initial development version
 # Features:
   Interrupt driven switch detection<br/>
   Queueing<br/>
