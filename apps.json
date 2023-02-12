@@ -1,7 +1,7 @@
 [
     {
         "name": "AsyncEspOTA",
-        "description" : "An Asynchronous Over the Air Update library for esp32 Arduino microControllers expanding on the work of RomeHein",
+        "description" : "An Asynchronous webSockets Over the Air Update library for esp32 Arduino microControllers expanding on the work of RomeHein",
         "repoRawPath" : "https://raw.githubusercontent.com/linzmeister/AsyncEspOTA/main/versions/",
 	"repoFilename": "versions.json",
 	"SPIFFSFilename": "",
