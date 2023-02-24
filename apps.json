@@ -1,24 +1,19 @@
 [
     {
         "name": "AsyncEspOTA",
-        "description" : "An Asynchronous Over the Air Update library for esp32 Arduino microControllers expanding on the work of RomeHein",
+        "description" : "An Asynchronous webSockets Over the Air Update library for esp32 Arduino microControllers expanding on the work of RomeHein",
         "repoRawPath" : "https://raw.githubusercontent.com/linzmeister/AsyncEspOTA/main/versions/",
 		"repoFilename": "versions.json",
 		"SPIFFSFilename": "spiffs.bin",
 		"BinFilename" : "CompleteAsyncOTAExample.bin"
+		"repoFilename": "versions.json",
+		"SPIFFSFilename": "",
+		"BinFilename" : "CompleteAsyncOTAExample.bin"
     },
-	{
+    {
         "name": "BFC",
         "description" : "A data logging hardware solution for motorcycle enthusiasts",
         "repoRawPath" : "https://raw.githubusercontent.com/linzmeister/BFC/main/releases/BFC/",
-		"repoFilename": "versions.json",
-		"SPIFFSFilename": "",
-		"BinFilename" : "BFC_fw.bin"
-    },
-	{
-        "name": "ADL",
-        "description" : "A data logging hardware solution encompanssing multiple automotive industries",
-        "repoRawPath" : "https://raw.githubusercontent.com/linzmeister/BFC/main/releases/ADL/",
 		"repoFilename": "versions.json",
 		"SPIFFSFilename": "",
 		"BinFilename" : "BFC_fw.bin"
