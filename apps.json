@@ -5,7 +5,7 @@
         "repoRawPath" : "https://raw.githubusercontent.com/linzmeister/AsyncEspOTA/main/versions/",
 		"repoFilename": "versions.json",
 		"SPIFFSFilename": "spiffs.bin",
-		"BinFilename" : "CompleteAsyncOTAExample.bin"
+		"BinFilename" : "CompleteAsyncOTAExample.bin",
 		"repoFilename": "versions.json",
 		"SPIFFSFilename": "",
 		"BinFilename" : "CompleteAsyncOTAExample.bin"
