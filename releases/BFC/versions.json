@@ -1,49 +1,17 @@
 [{
-    "version": "0.6.2",
+    "version": "0.6.3",
     "build": 1,
     "current": true,
     "partitionScheme":"min_spiffs",
+    "description": "Testing integration with main program - with updated verion",
+    "compatibility": []
+},
+{
+    "version": "0.6.2",
+    "build": 1,
+    "current": false,
+    "partitionScheme":"min_spiffs",
     "description": "Testing integration with main program",
-    "compatibility": []
-},
-{
-    "version": "0.6.1",
-    "build": 1,
-    "current": false,
-    "partitionScheme":"min_spiffs",
-    "description": "Working AsyncEspOTA interface",
-    "compatibility": []
-},
-{
-    "version": "0.5.7",
-    "build": 1,
-    "current": false,
-    "partitionScheme":"min_spiffs",
-    "description": "Faulty AsyncEspOTA interface",
-    "compatibility": [0.5]
-},
-{
-    "version": "0.5.3",
-    "build": 1,
-    "current": false,
-    "partitionScheme":"min_spiffs",
-    "description": "Added ESPInstaller interface",
-    "compatibility": [0.5]
-},
-{
-    "version": 0.2,
-    "build": 1,
-    "current": false,
-    "partitionScheme":"min_spiffs",
-    "description": "Move HTTP calls to main loop",
-    "compatibility": [0.1]
-},
-{
-    "version": 0.1,
-    "build": 1,
-    "current": false,
-    "partitionScheme":"min_spiffs",
-    "description": "Initial work",
     "compatibility": []
 }
 ]
