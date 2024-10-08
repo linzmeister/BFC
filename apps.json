@@ -1,13 +1,5 @@
 [
-    {
-        "name": "AsyncEspOTA",
-        "description" : "The world's easiest IoT device for END USERS to configure with OTA updates that developers don't need to touch",
-        "repoRawPath" : "https://raw.githubusercontent.com/linzmeister/AsyncEspOTA/main/versions/",
-		"repoFilename": "versions.json",
-		"SPIFFSFilename": "spiffs.bin",
-		"BinFilename" : "CompleteAsyncOTAExample.bin"
-    },
-    {
+	{
         "name": "BFC",
         "description" : "A data logging hardware solution for motorcycle enthusiasts",
         "repoRawPath" : "https://raw.githubusercontent.com/linzmeister/BFC/main/releases/BFC/",
