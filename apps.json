@@ -4,7 +4,7 @@
         "description" : "A data logging hardware solution for motorcycle enthusiasts",
         "repoRawPath" : "https://raw.githubusercontent.com/linzmeister/BFC/main/releases/BFC/",
 		"repoFilename": "versions.json",
-		"SPIFFSFilename": "",
+		"SPIFFSFilename": "spiffs.bin",
 		"BinFilename" : "BFC_fw.bin"
     }
 ]
